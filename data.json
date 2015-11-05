@@ -1,0 +1,11 @@
+var objData={
+	'20151105':{
+		keywords:'fis,npm,插件',
+		items:[
+			'fis配置文件fis-config学习',
+			'fis插件学习',
+			'npm打包发布学习'
+		]
+	},
+	'20151106':{}
+}
