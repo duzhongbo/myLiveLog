@@ -5,12 +5,68 @@
 <title>我的每日总结</title>
 </head>
 <body>
-	
 
-<script type="text/javascript" src="data.json"></script>	
+<style type="text/css">
+html,body{margin:0;font-size:12px;line-height:22px;}
+.fl{float:left;}
+.fr{float:right;}
+ul{padding:0;margin:0;list-style:none;}
+.wrap{width:80%;margin:0 auto;}
+.date{background:#eee;padding:0 10px;border-radius:2px;margin:10px 0;}
+.item-list-li{padding:0 5px;}
+</style>
+
+
+<div class="wrap" id="J_wrap">
+</div>
+
+<script type="text/javascript" src="data.json"></script>
 <script type="text/javascript">
 var data = objData;
 console.log(data);
+(function(){
+var render={
+	main:function(){
+		J_wrap.innerHTML=this.renderDays(data);
+	},
+	// 渲染“关键字”
+	renderKeywords:function(data){
+		var str='';
+		for(var i=0,len=data.length;i<len;i++){
+			str+=data[i]+'&nbsp';
+		}
+		return '<span class="fr keyword">'+str+'</span>';
+	},
+	// 渲染一天的条目
+	renderItems:function(data){
+		var str='';
+		for(var i=0,len=data.length;i<len;i++){
+			str+='<li class="item-list-li">\
+				<span class="fr keyword">'+this.renderKeywords(data[i]['keywords'])+'</span>\
+				<span>'+(i+1)+'、'+data[i]['info']+'</span>\
+			</li>';
+		}
+		return '<ul>'+str+'</ul>';
+	},
+	// 渲染每天的数据
+	renderDays:function(data){
+		var str='';
+		for(i in data){
+			str+='<li>\
+				<div class="date">'+i+'</div>\
+				<div class="item-list">\
+					'+this.renderItems(data[i]['items'])+'\
+				</div>\
+			</li>';
+		}
+		return '<ul>'+str+'</ul>';
+	}
+};
+render.main();
+
+
+
+})();
 
 </script>
 

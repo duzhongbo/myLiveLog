@@ -1,11 +1,34 @@
 var objData={
 	'20151105':{
-		keywords:'fis,npm,插件',
 		items:[
-			'fis配置文件fis-config学习',
-			'fis插件学习',
-			'npm打包发布学习'
+			{
+				keywords:['fis'],
+				info:'fis配置文件fis-config学习'
+			},
+			{
+				keywords:['fis','插件'],
+				info:'fis插件学习'
+			},
+			{
+				keywords:['npm'],
+				info:'npm打包发布学习'
+			}
 		]
 	},
-	'20151106':{}
+	'20151106':{
+		items:[
+			{
+				keywords:['xxoo'],
+				info:'xxooxxooxxooxxoo'
+			},
+			{
+				keywords:['xxoo'],
+				info:'xxooxxooxxooxxoo'
+			},
+			{
+				keywords:['xxoo'],
+				info:'xxooxxooxxooxxoo'
+			}
+		]
+	}
 }
