@@ -22,16 +22,8 @@ var objData={
 	'20151106':{
 		items:[
 			{
-				keywords:['xxoo'],
-				info:'xxooxxooxxooxxoo'
-			},
-			{
-				keywords:['xxoo'],
-				info:'xxooxxooxxooxxoo'
-			},
-			{
-				keywords:['xxoo'],
-				info:'xxooxxooxxooxxoo'
+				keywords:['正则'],
+				info:'利用正则从animate.css中找出需要的样式'
 			}
 		]
 	}
