@@ -12,6 +12,10 @@ var objData={
 			{
 				keywords:['npm'],
 				info:'npm打包发布学习'
+			},
+			{
+				keywords:['nodejs','文件操作'],
+				info:'了解使用nodejs读取、创建、写入操作'
 			}
 		]
 	},
