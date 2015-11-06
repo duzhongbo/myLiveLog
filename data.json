@@ -23,7 +23,7 @@ var objData={
 		items:[
 			{
 				keywords:['正则'],
-				info:'利用正则从animate.css中找出需要的样式'
+				info:'利用正则在css中找到指定类的语句，在html中找到指定属性的值的集合'
 			}
 		]
 	}
