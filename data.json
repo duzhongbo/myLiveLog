@@ -48,6 +48,18 @@ var objData={
 			{
 				keywords:['h5','video'],
 				info:'videoplayer项目样式直接照优酷的播放器来'
+			},
+			{
+				keywords:['模板引擎'],
+				info:'模板引擎理解巩固，写文章总结'
+			},
+			{
+				keywords:['CSSFilter'],
+				info:'CSSFilter插件完成'
+			},
+			{
+				keywords:['“叶小钗”'],
+				info:'继续阅读“叶小钗”的博客，总结自己的短板'
 			}
 		]
 	}
