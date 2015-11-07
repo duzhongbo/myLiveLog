@@ -30,6 +30,14 @@ var objData={
 	'20151107':{
 		items:[
 			{
+				keywords:['面试题','js作用域','变量提升','setTimeout异步','语义化'],
+				info:'看了一些面试题，主要是“叶小钗”的文章，了解了一些知识点'
+			}
+		]
+	},
+	'20151108':{
+		items:[
+			{
 				keywords:['h5','video'],
 				info:'videoplayer项目样式直接照优酷的播放器来'
 			}
