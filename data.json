@@ -46,6 +46,14 @@ var objData={
 	'20151108':{
 		items:[
 			{
+				keywords:['正则'],
+				info:'“模板引擎”项目取消了模板的拼接，但是还有很多问题。卡在正则上，没有进展。'
+			}
+		]
+	},
+	'20151109':{
+		items:[
+			{
 				keywords:['h5','video'],
 				info:'videoplayer项目样式直接照优酷的播放器来'
 			},
