@@ -79,7 +79,7 @@ var objData={
 			},
 			{
 				keywords:['bootstrap','react','angular'],
-				info:'“每日总结”、“面试”等项目都可以用angular，react、bootstrap去构建'
+				info:'“每日总结”、“面试”等项目都可以用angular，react、bootstrap去构建。比如加些伸展收缩，搜索等功能'
 			}
 		]
 	}
