@@ -54,20 +54,32 @@ var objData={
 	'20151109':{
 		items:[
 			{
-				keywords:['h5','video'],
-				info:'videoplayer项目样式直接照优酷的播放器来'
-			},
-			{
 				keywords:['模板引擎'],
-				info:'模板引擎理解巩固，写文章总结'
+				info:'模板引擎理解巩固，正则学习:exec与match的区别'
 			},
 			{
 				keywords:['CSSFilter'],
-				info:'CSSFilter插件完成'
+				info:'CSSFilter插件完成基本功能'
+			}
+		]
+	},
+	'20151110':{
+		items:[
+			{
+				keywords:['h5','video','css3'],
+				info:'videoplayer项目样式直接照优酷的播放器来'
+			},
+			{
+				keywords:['CSSFilter','npm'],
+				info:'CSSFilter插件完善，npm发布，理清npm的使用'
 			},
 			{
 				keywords:['“叶小钗”'],
 				info:'继续阅读“叶小钗”的博客，总结自己的短板'
+			},
+			{
+				keywords:['bootstrap','react','angular'],
+				info:'“每日总结”、“面试”等项目都可以用angular，react、bootstrap去构建'
 			}
 		]
 	}
