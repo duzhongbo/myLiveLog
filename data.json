@@ -92,6 +92,10 @@ var objData={
 			{
 				keywords:['animate.css动画库'],
 				info:'用animate.css动画库配合css3其他属性制作冰封王座的菜单动画'
+			},
+			{
+				keywords:['重点'],
+				info:'html5,css3,bootstrap要加强，js也是一个很大的重点不要忘了,那些常见的交互，正则'
 			}
 		]
 	}
