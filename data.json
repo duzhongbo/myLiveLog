@@ -66,6 +66,14 @@ var objData={
 	'20151110':{
 		items:[
 			{
+				keywords:['bootstrap'],
+				info:'bootstrap2,3了解学习'
+			}
+		]
+	},
+	'20151111':{
+		items:[
+			{
 				keywords:['h5','video','css3'],
 				info:'videoplayer项目样式直接照优酷的播放器来'
 			},
