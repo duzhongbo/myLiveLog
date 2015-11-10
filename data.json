@@ -12,22 +12,86 @@ var objData={
 			{
 				keywords:['npm'],
 				info:'npm打包发布学习'
+			},
+			{
+				keywords:['nodejs','文件操作'],
+				info:'了解使用nodejs读取、创建、写入操作'
 			}
 		]
 	},
 	'20151106':{
 		items:[
 			{
-				keywords:['xxoo'],
-				info:'xxooxxooxxooxxoo'
+				keywords:['正则'],
+				info:'利用正则在css中找到指定类的语句，在html中找到指定属性的值的集合'
+			}
+		]
+	},
+	'20151107':{
+		items:[
+			{
+				keywords:['面试题','js作用域','变量提升','setTimeout异步','语义化'],
+				info:'看了一些面试题，主要是“叶小钗”的文章，了解了一些知识点'
 			},
 			{
-				keywords:['xxoo'],
-				info:'xxooxxooxxooxxoo'
+				keywords:['模板引擎'],
+				info:'按照网上资源实践了一个十几行的模板引擎，模板引擎的中逻辑语句发挥作用就是直接把它作为js执行，但是因为它是字符串，所以中间要利用new Function转换下，貌似用evel语句也行，两者的优劣？'
 			},
 			{
-				keywords:['xxoo'],
-				info:'xxooxxooxxooxxoo'
+				keywords:['日志系统自身','bug'],
+				info:'本日志系统自身样式bug,上面的第2个条目关键字消失了，思考解决办法'
+			}
+		]
+	},
+	'20151108':{
+		items:[
+			{
+				keywords:['正则'],
+				info:'“模板引擎”项目取消了模板的拼接，但是还有很多问题。卡在正则上，没有进展。'
+			}
+		]
+	},
+	'20151109':{
+		items:[
+			{
+				keywords:['模板引擎'],
+				info:'模板引擎理解巩固，正则学习:exec与match的区别'
+			},
+			{
+				keywords:['CSSFilter'],
+				info:'CSSFilter插件完成基本功能'
+			}
+		]
+	},
+	'20151110':{
+		items:[
+			{
+				keywords:['bootstrap'],
+				info:'bootstrap2,3了解学习'
+			}
+		]
+	},
+	'20151111':{
+		items:[
+			{
+				keywords:['h5','video','css3'],
+				info:'videoplayer项目样式直接照优酷的播放器来'
+			},
+			{
+				keywords:['CSSFilter','npm'],
+				info:'CSSFilter插件完善，npm发布，理清npm的使用'
+			},
+			{
+				keywords:['“叶小钗”'],
+				info:'继续阅读“叶小钗”的博客，总结自己的短板'
+			},
+			{
+				keywords:['bootstrap','react','angular'],
+				info:'“每日总结”、“面试”等项目都可以用angular，react、bootstrap去构建。比如加些伸展收缩，搜索等功能'
+			},
+			{
+				keywords:['animate.css动画库'],
+				info:'用animate.css动画库配合css3其他属性制作冰封王座的菜单动画'
 			}
 		]
 	}
