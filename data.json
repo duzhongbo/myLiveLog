@@ -98,5 +98,14 @@ var objData={
 				info:'html5,css3,bootstrap要加强，js也是一个很大的重点不要忘了,那些常见的交互，正则'
 			}
 		]
+	},
+	'20151112':{
+		items:[
+			{
+				keywords:['git','命令行'],
+				info:'git的主要操作都能用git命令完成，尤其冲突处理'
+			}
+		]
 	}
+
 }
