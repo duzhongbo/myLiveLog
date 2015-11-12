@@ -106,6 +106,22 @@ var objData={
 				info:'git的主要操作都能用git命令完成，尤其冲突处理'
 			}
 		]
+	},
+	'20151113':{
+		items:[
+			{
+				keywords:['js数组','js浮点计算'],
+				info:'js数组和浮点计算继续熟悉，还有url的处理强化'
+			},
+			{
+				keywords:['websocket'],
+				info:'websocket要出一个最基础的demo'
+			},
+			{
+				keywords:['h5'],
+				info:'基于h5的播放器，进度条控制，还有进度条的视频片段预览'
+			}
+		]
 	}
 
 }
