@@ -135,7 +135,7 @@ var objData={
 		items:[
 			{
 				keywords:['h5','video播放器'],
-				info:'处理进度控制bug,进度条上增加预览效果'
+				info:'处理进度控制bug,进度条上增加预览效果；其他优酷播放器上的效果逐步添加到这个播放器上'
 			},
 			{
 				keywords:['js浮点运算'],
