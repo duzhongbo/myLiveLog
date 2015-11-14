@@ -130,6 +130,18 @@ var objData={
 				info:'给h5video播放器加了个进度条及进度控制，但进度控制有bug'
 			}
 		]
+	},
+	'20151115':{
+		items:[
+			{
+				keywords:['h5','video播放器'],
+				info:'处理进度控制bug,进度条上增加预览效果'
+			},
+			{
+				keywords:['js浮点运算'],
+				info:'js浮点运算梳理，更新进ads项目中'
+			}
+		]
 	}
 
 }
