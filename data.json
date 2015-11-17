@@ -122,6 +122,38 @@ var objData={
 				info:'基于h5的播放器，进度条控制，还有进度条的视频片段预览'
 			}
 		]
+	},
+	'20151114':{
+		items:[
+			{
+				keywords:['websocket'],
+				info:'websocket最基础的demo完成'
+			}
+		]
+	},
+	'20151115':{
+		items:[
+			{
+				keywords:['h5','video播放器'],
+				info:'时间线上的“缩略图”、“段落”、“搜索”实践'
+			}
+		]
+	},
+	'20151116':{
+		items:[
+			{
+				keywords:['seajs'],
+				info:'seajs再熟悉'
+			}
+		]
+	},
+	'20151117':{
+		items:[
+			{
+				keywords:['seajs'],
+				info:'seajs拆解h5的播放器模块化'
+			}
+		]
 	}
 
 }
