@@ -154,6 +154,22 @@ var objData={
 				info:'seajs拆解h5的播放器模块化'
 			}
 		]
+	},
+	'20151118':{
+		items:[
+			{
+				keywords:['github pages'],
+				info:'github个人主页、列表页、详情页'
+			},
+			{
+				keywords:['h5播放器'],
+				info:'h5播放器的已实现功能的全部模块化'
+			},
+			{
+				keywords:['正则','面试'],
+				info:'面试项目开始，开始整理面试题，从js开始'
+			}
+		]
 	}
 
 }
