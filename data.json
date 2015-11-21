@@ -192,6 +192,18 @@ var objData={
 			{
 				keywords:['github pages'],
 				info:'github个人主页首页增加js动态随机语录和背景，配合文字淡入淡出效果，不用刷新页面'
+			},
+			{
+				keywords:['github pages'],
+				info:'标签功能实践'
+			}
+		]
+	},
+	'20151122':{
+		items:[
+			{
+				keywords:['github pages'],
+				info:'用hash取代url加参数形式，减少请求'
 			}
 		]
 	}
