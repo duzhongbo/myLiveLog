@@ -183,15 +183,15 @@ var objData={
 		items:[
 			{
 				keywords:['github pages'],
-				info:'github个人主页首页增加js动态随机语录和背景，语录和背景适当匹配下，文字淡入淡出效果'
-			},
+				info:'github个人主页首页增加js动态随机语录和背景，语录和背景适当匹配下，文字淡入淡出效果。基于刷新的'
+			}
+		]
+	},
+	'20151121':{
+		items:[
 			{
-				keywords:['h5播放器'],
-				info:'h5播放器的已实现功能的全部模块化'
-			},
-			{
-				keywords:['正则','面试'],
-				info:'面试项目开始，开始整理面试题，从js开始'
+				keywords:['github pages'],
+				info:'github个人主页首页增加js动态随机语录和背景，配合文字淡入淡出效果，不用刷新页面'
 			}
 		]
 	}
