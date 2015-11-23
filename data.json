@@ -218,6 +218,21 @@ var objData={
 				info:'1、fix搜索bug；2、搜索结果中加图片；3、代码整理优化'
 			}
 		]
+	},
+	'20151124':{
+		items:[
+			{
+				keywords:['github pages'],
+				info:'1、将项目纳入fis管理'
+			},
+			{
+				keywords:['github pages'],
+				info:'1、模块化拆解js'
+			},
+			{
+				keywords:['github pages'],
+				info:'1、使用cdn加速'
+			}
+		]
 	}
-
 }
