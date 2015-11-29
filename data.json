@@ -234,5 +234,13 @@ var objData={
 				info:'1、使用cdn加速'
 			}
 		]
+	},
+	'20151129':{
+		items:[
+			{
+				keywords:['工作流'],
+				info:'1、流不要中断'
+			}
+		]
 	}
 }
