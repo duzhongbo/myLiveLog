@@ -250,4 +250,24 @@ var objData={
 				info:'1、看优秀的源码；2、从淘宝昂天的而开始，fxtpl的，pctab等'
 			}
 		]
-	}}
+	},
+	'20151205':{
+		items:[
+			{
+				keywords:['canvas'],
+				info:'第二章：绘制，全部'
+			},
+			{
+				keywords:['requirejs'],
+				info:'requirejs入门'
+			},
+			{
+				keywords:['测试','Mocha'],
+				info:'Mocha入门'
+			}
+
+		]
+	}
+
+
+}
