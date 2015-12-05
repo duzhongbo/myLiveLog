@@ -265,7 +265,14 @@ var objData={
 				keywords:['测试','Mocha'],
 				info:'Mocha入门'
 			}
-
+		]
+	},
+	'20151206':{
+		items:[
+			{
+				keywords:['工作流'],
+				info:'1、对工作流，工具，代码片段整理；2、对技能树梳理'
+			}
 		]
 	}
 
