@@ -290,6 +290,14 @@ var objData={
 				info:'账号管理，秘钥理解与应用'
 			}
 		]
-	}
+	},
+	'20151206':{
+		items:[
+			{
+				keywords:['backbone'],
+				info:'backbone学习使用，会用后看源码，还seajs,requirejs的用法学习和源码学习'
+			}
+		]
+	},
 
 }
