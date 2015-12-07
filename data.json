@@ -284,6 +284,10 @@ var objData={
 			{
 				keywords:['单页面应用'],
 				info:'github个人主页做一个单页面应用版本'
+			},
+			{
+				keywords:['账号管理','秘钥'],
+				info:'账号管理，秘钥理解与应用'
 			}
 		]
 	}
