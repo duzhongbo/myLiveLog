@@ -279,7 +279,11 @@ var objData={
 		items:[
 			{
 				keywords:['代码片段'],
-				info:'1、js代码片段整理'
+				info:'js代码片段整理'
+			},
+			{
+				keywords:['单页面应用'],
+				info:'github个人主页做一个单页面应用版本'
 			}
 		]
 	}
