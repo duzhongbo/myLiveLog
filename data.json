@@ -403,6 +403,14 @@ var objData={
 			},
 			{
 				keywords:['每日一练'],
+				info:'css3 动画'
+			},
+			{
+				keywords:['每日一练'],
+				info:'js浮点数加减乘除'
+			},
+			{
+				keywords:['每日一练'],
 				info:'鼠标跟随大图'
 			},
 			{
@@ -431,7 +439,7 @@ var objData={
 			},
 			{
 				keywords:['每日一练'],
-				info:'css3 动画'
+				info:'20行前端模板引擎'
 			},
 		]
 	},
