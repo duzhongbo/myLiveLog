@@ -419,6 +419,10 @@ var objData={
 			},
 			{
 				keywords:['每日一练'],
+				info:'css3 线性渐变(乐视播放器进度条),放射渐变'
+			},
+			{
+				keywords:['每日一练'],
 				info:'css3 有趣的跳动动画'
 			},
 			{
