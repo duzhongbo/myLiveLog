@@ -473,6 +473,10 @@ var objData={
 				keywords:['每日一练'],
 				info:'websocket聊天室'
 			},
+			{
+				keywords:['每日一练'],
+				info:'h5 xh2 获取上传真实进度'
+			},
 		]
 	},
 
