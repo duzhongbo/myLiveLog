@@ -407,6 +407,14 @@ var objData={
 			},
 			{
 				keywords:['每日一练'],
+				info:'css3 Material Design 按钮'
+			},
+			{
+				keywords:['每日一练'],
+				info:'clip:reat进度条，基本无兼容问题，且更有弹性，更少结构'
+			},
+			{
+				keywords:['每日一练'],
 				info:'js浮点数加减乘除'
 			},
 			{
