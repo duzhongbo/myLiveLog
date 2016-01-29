@@ -469,6 +469,10 @@ var objData={
 				keywords:['每日一练'],
 				info:'20行前端模板引擎'
 			},
+			{
+				keywords:['每日一练'],
+				info:'websocket聊天室'
+			},
 		]
 	},
 
