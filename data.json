@@ -395,15 +395,15 @@ var objData={
 		items:[
 			{
 				keywords:['每日一练'],
-				info:'无缝滚动'
+				info:'无缝滚动---'
 			},
 			{
 				keywords:['每日一练'],
-				info:'拖拽'
+				info:'拖拽---'
 			},
 			{
 				keywords:['每日一练'],
-				info:'css3 动画'
+				info:'css3 帧动画，渐变动画---'
 			},
 			{
 				keywords:['每日一练'],
@@ -411,23 +411,43 @@ var objData={
 			},
 			{
 				keywords:['每日一练'],
-				info:'clip:rect进度条，基本无兼容问题，且更有弹性，更少结构'
+				info:'css2 电子时钟效果---'
 			},
 			{
 				keywords:['每日一练'],
-				info:'js浮点数加减乘除'
+				info:'css3 clip path动画'
 			},
 			{
 				keywords:['每日一练'],
-				info:'鼠标跟随大图'
+				info:'css3 有趣的跳动动画'
 			},
 			{
 				keywords:['每日一练'],
-				info:'自定义滚动条'
+				info:'audio播放器，后去数据生成音频图'
 			},
 			{
 				keywords:['每日一练'],
-				info:'动画库'
+				info:'video播放器，各种常见接口使用'
+			},
+			{
+				keywords:['每日一练'],
+				info:'clip:rect进度条，基本无兼容问题，且更有弹性，更少结构---'
+			},
+			{
+				keywords:['每日一练'],
+				info:'js浮点数加减乘除---'
+			},
+			{
+				keywords:['每日一练'],
+				info:'鼠标跟随大图---'
+			},
+			{
+				keywords:['每日一练'],
+				info:'自定义滚动条---'
+			},
+			{
+				keywords:['每日一练'],
+				info:'动画库---'
 			},
 			{
 				keywords:['每日一练'],
@@ -435,7 +455,7 @@ var objData={
 			},
 			{
 				keywords:['每日一练'],
-				info:'10条正则'
+				info:'10条正则---'
 			},
 			{
 				keywords:['每日一练'],
