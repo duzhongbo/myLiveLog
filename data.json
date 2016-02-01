@@ -415,7 +415,7 @@ var objData={
 			},
 			{
 				keywords:['每日一练'],
-				info:'css3 clip path动画'
+				info:'css3 clip path动画---'
 			},
 			{
 				keywords:['每日一练'],
@@ -427,7 +427,7 @@ var objData={
 			},
 			{
 				keywords:['每日一练'],
-				info:'audio播放器，后去数据生成音频图'
+				info:'audio播放器，后去数据生成音频图---'
 			},
 			{
 				keywords:['每日一练'],
